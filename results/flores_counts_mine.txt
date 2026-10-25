@@ -1,0 +1,10 @@
+heb o200k_base.tiktoken 4440
+heb cl100k_base.tiktoken 10581
+heb dicta-il_DictaLM-3.0-24B-Base.tokenizer.json 5028
+heb mistralai_Mistral-7B-v0.1.tokenizer.json 10935
+heb dicta-il_dictalm2.0.tokenizer.json 4998
+eng o200k_base.tiktoken 2835
+eng cl100k_base.tiktoken 2868
+eng dicta-il_DictaLM-3.0-24B-Base.tokenizer.json 2963
+eng mistralai_Mistral-7B-v0.1.tokenizer.json 3199
+eng dicta-il_dictalm2.0.tokenizer.json 3199

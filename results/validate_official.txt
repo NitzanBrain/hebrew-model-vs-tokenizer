@@ -1,0 +1,26 @@
+o200k_base.tiktoken                              flores_heb.txt     mine   4440 official   4440 OK
+o200k_base.tiktoken                              flores_eng.txt     mine   2835 official   2835 OK
+o200k_base.tiktoken                              nikud_pointed.txt  mine   2796 official   2796 OK
+o200k_base.tiktoken                              nikud_plain.txt    mine   1187 official   1187 OK
+o200k_base.tiktoken                              prefix words: 0 of 300 differ
+cl100k_base.tiktoken                             flores_heb.txt     mine  10581 official  10581 OK
+cl100k_base.tiktoken                             flores_eng.txt     mine   2868 official   2868 OK
+cl100k_base.tiktoken                             nikud_pointed.txt  mine   4848 official   4848 OK
+cl100k_base.tiktoken                             nikud_plain.txt    mine   2676 official   2676 OK
+cl100k_base.tiktoken                             prefix words: 0 of 300 differ
+dicta-il_DictaLM-3.0-24B-Base.tokenizer.json     flores_heb.txt     mine   5028 official   5028 OK
+dicta-il_DictaLM-3.0-24B-Base.tokenizer.json     flores_eng.txt     mine   2963 official   2963 OK
+dicta-il_DictaLM-3.0-24B-Base.tokenizer.json     nikud_pointed.txt  mine   3222 official   3222 OK
+dicta-il_DictaLM-3.0-24B-Base.tokenizer.json     nikud_plain.txt    mine   1320 official   1320 OK
+dicta-il_DictaLM-3.0-24B-Base.tokenizer.json     prefix words: 0 of 300 differ
+mistralai_Mistral-7B-v0.1.tokenizer.json         flores_heb.txt     mine  10935 official  10935 OK
+mistralai_Mistral-7B-v0.1.tokenizer.json         flores_eng.txt     mine   3199 official   3199 OK
+mistralai_Mistral-7B-v0.1.tokenizer.json         nikud_pointed.txt  mine   3931 official   3931 OK
+mistralai_Mistral-7B-v0.1.tokenizer.json         nikud_plain.txt    mine   2805 official   2805 OK
+mistralai_Mistral-7B-v0.1.tokenizer.json         prefix words: 0 of 300 differ
+dicta-il_dictalm2.0.tokenizer.json               flores_heb.txt     mine   4998 official   4998 OK
+dicta-il_dictalm2.0.tokenizer.json               flores_eng.txt     mine   3199 official   3199 OK
+dicta-il_dictalm2.0.tokenizer.json               nikud_pointed.txt  mine   2848 official   2848 OK
+dicta-il_dictalm2.0.tokenizer.json               nikud_plain.txt    mine   1345 official   1345 OK
+dicta-il_dictalm2.0.tokenizer.json               prefix words: 0 of 300 differ
+ALL MATCH

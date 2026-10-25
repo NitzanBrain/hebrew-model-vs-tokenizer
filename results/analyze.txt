@@ -1,0 +1,16 @@
+== GPT-4o (o200k)
+  census: tokens with a Hebrew letter (U+05D0-05EA) 2351; of these with a pointing mark 130; multi-letter 2267
+  nikud: pointed 2796, plain 1187, ratio 2.36
+  pointed-token classes: {'mark only': 936, 'letter+mark': 43, 'letters only': 1504, 'byte fragment': 184, 'other': 129} total 2796
+  prefix mean tokens/word: bare:1.35 ה:1.70 ו:2.25 ב:1.95 ל:2.05 מ:2.15 ש:2.20 וה:2.55 בה:2.70 לה:2.50 מה:2.65 כש:2.80 וכש:3.40 ושב:3.35 ומה:2.80
+  single-token: bare 13/20, prefixed 14/280; ' בית'=1 ' ובבית'=2
+== GPT-4 (cl100k)
+  census: tokens with a Hebrew letter (U+05D0-05EA) 20; of these with a pointing mark 0; multi-letter 0
+  nikud: pointed 4848, plain 2676, ratio 1.81
+  prefix mean tokens/word: bare:4.80 ה:5.35 ו:6.35 ב:5.35 ל:5.35 מ:5.35 ש:5.35 וה:7.35 בה:6.35 לה:6.35 מה:6.35 כש:7.35 וכש:9.35 ושב:8.35 ומה:8.35
+  single-token: bare 0/20, prefixed 0/280; ' בית'=3 ' ובבית'=6
+== DictaLM 3.0
+  census: tokens with a Hebrew letter (U+05D0-05EA) 957; of these with a pointing mark 0; multi-letter 905
+  nikud: pointed 3222, plain 1320, ratio 2.44
+  prefix mean tokens/word: bare:1.95 ה:2.15 ו:2.70 ב:2.35 ל:2.60 מ:2.50 ש:2.80 וה:3.40 בה:3.50 לה:3.40 מה:3.55 כש:3.35 וכש:4.20 ושב:3.80 ומה:4.55
+  single-token: bare 4/20, prefixed 7/280; ' בית'=1 ' ובבית'=3
